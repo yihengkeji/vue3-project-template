@@ -1,5 +1,7 @@
 # vue3-project-template
 
+`VUE3的项目模版，内含ElementPlus、WindiCSS、MOCKJS、SASS`
+自定义了Element和windi的基础颜色
 ## Project setup
 ```
 yarn install
