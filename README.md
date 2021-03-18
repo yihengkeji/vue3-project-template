@@ -7,9 +7,9 @@ VUE3的项目模版，内含`ElementPlus`、`WindiCSS`、`MOCKJS`、`SASS`、`AX
 3. 封装了AXIOS，并做了接口模块化管理
 
 ### 组件方面
-1. `backgroundDesign`是一个可以通过传参的方式自定义生成背景动画的组件，基于canvas，组件源地址：[finisher-header](https://www.finisher.co/lab/header)
-2. `loading`是自己封装的一个全屏加载动画组件
-3. `iconfont`是自己将iconfont上的图标项目封装了一下
+1. `backgroundDesign` | 是一个可以通过传参的方式自定义生成背景动画的组件，基于canvas，组件源地址：[finisher-header](https://www.finisher.co/lab/header)
+2. `loading` | 封装的一个全屏加载动画组件
+3. `iconfont` | 将iconfont上的图标项目封装了一下
 
 -----------
 ## Project setup
